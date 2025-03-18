@@ -1,0 +1,14 @@
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\bin\Debug\net9.0\CadastroUsuariosConsole.exe
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\bin\Debug\net9.0\CadastroUsuariosConsole.deps.json
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\bin\Debug\net9.0\CadastroUsuariosConsole.runtimeconfig.json
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\bin\Debug\net9.0\CadastroUsuariosConsole.dll
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\bin\Debug\net9.0\CadastroUsuariosConsole.pdb
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.AssemblyInfoInputs.cache
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.AssemblyInfo.cs
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.csproj.CoreCompileInputs.cache
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.dll
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\refint\CadastroUsuariosConsole.dll
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.pdb
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.genruntimeconfig.cache
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\ref\CadastroUsuariosConsole.dll

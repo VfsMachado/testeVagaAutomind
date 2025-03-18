@@ -12,3 +12,4 @@ C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosCons
 C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.pdb
 C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.genruntimeconfig.cache
 C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\ref\CadastroUsuariosConsole.dll
+C:\Users\vfsma\OneDrive\Documentos\GitHub\testeVagaAutomind\CadastroUsuariosConsole\CadastroUsuariosConsole\obj\Debug\net9.0\CadastroUsuariosConsole.sourcelink.json

@@ -1,12 +1,12 @@
 namespace CadastroUsuariosConsole {
-    // Classe que representa um usuário
+    // classe do usuario 
     public class Usuario
     {
         public string Nome { get; set; }
         public string Email { get; set; }
         public int Idade { get; set; }
 
-        // Construtor
+        // Construtor para organizar melhor os dados
         public Usuario(string nome, string email, int idade)
         {
             Nome = nome;

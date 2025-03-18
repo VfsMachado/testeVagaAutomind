@@ -8,7 +8,7 @@ namespace CadastroUsuariosConsole {
     {
         static void Main(string[] args)
         {
-            // Lista de usuários cadastrados
+            // usuários cadastrados
             List<Usuario> usuarios = new List<Usuario>
             {
                 new Usuario("Victor Fernando", "Vfsmachado27@gmail.com", 21),
@@ -16,30 +16,32 @@ namespace CadastroUsuariosConsole {
                 new Usuario("Carlos", "carlos@example.com", 28)
             };
 
-            // Listagem de todos os usuários cadastrados (apenas os nomes)
+            // funcionalidade que lista todos os usuários
             Console.WriteLine("Lista de usuários cadastrados:");
             foreach (var usuario in usuarios)
             {
                 Console.WriteLine(usuario.Nome);
             }
             
-            
-            // Solicita ao usuário um nome para buscar
+
+            // busca de usuarios
             Console.Write("Digite o nome do usuário para buscar: ");
             string nomeBusca = Console.ReadLine();
 
-            // Busca do usuário na lista
+            // resultado da busca na lista
             Usuario usuarioEncontrado = null;
             foreach (Usuario usuario in usuarios)
             {
                 if (usuario.Nome.Equals(nomeBusca, StringComparison.OrdinalIgnoreCase))
                 {
                     usuarioEncontrado = usuario;
-                    break; // Sai do loop quando encontrar o usuário
+                    break; 
+                    
+                    // interrompe o loop qnd o nome for achado
                 }
             }
 
-            // Resultado da busca
+            // resultado da busca
             if (usuarioEncontrado != null)
             {
                 Console.WriteLine("\nUsuário encontrado:");

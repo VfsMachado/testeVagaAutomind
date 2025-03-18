@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using CadastroUsuariosConsole;
 
-
-
+namespace CadastroUsuariosConsole { 
     class Program
     {
         static void Main(string[] args)
@@ -11,11 +11,19 @@ using System.Linq;
             // Lista de usuários cadastrados
             List<Usuario> usuarios = new List<Usuario>
             {
-                new Usuario("João", "joao@example.com", 25),
+                new Usuario("Victor Fernando", "Vfsmachado27@gmail.com", 21),
                 new Usuario("Maria", "maria@example.com", 30),
                 new Usuario("Carlos", "carlos@example.com", 28)
             };
 
+            // Listagem de todos os usuários cadastrados (apenas os nomes)
+            Console.WriteLine("Lista de usuários cadastrados:");
+            foreach (var usuario in usuarios)
+            {
+                Console.WriteLine(usuario.Nome);
+            }
+            
+            
             // Solicita ao usuário um nome para buscar
             Console.Write("Digite o nome do usuário para buscar: ");
             string nomeBusca = Console.ReadLine();
